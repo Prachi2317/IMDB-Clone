@@ -16,3 +16,8 @@
   - Make this list persistent (should have the same number of movies before and after closing the browser/refreshing the browser)
   
   - Remove from favourites button: Each movie should have remove from favourites button
+  
+  
+  ####Github live link
+  
+  https://prachi2317.github.io/IMDB-Clone/
